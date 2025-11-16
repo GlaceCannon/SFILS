@@ -2,7 +2,7 @@ This repository contains the means to create a database of patrons of the San Fr
 
 Creating the database:
 
-In order to create the database, place the .csv file included in the 'scripts' folder into the default import folder for MySQL. On Windows, this is:
+In order to create the database, unzip the file in the 'scripts' folder and place the .csv file into the default import folder for MySQL. On Windows, this is:
 
 C:/ProgramData/MySQL/MySQL Server 8.0/Uploads
 
@@ -39,5 +39,6 @@ W3schools has a comprehensive MySQL tutorial on their website:
 	https://www.w3schools.com/mysql/default.asp
 	
 Documentation about the MySQL connector can be found on their website:
+
 
 	https://dev.mysql.com/doc/refman/8.4/en/connector-python-info.html
